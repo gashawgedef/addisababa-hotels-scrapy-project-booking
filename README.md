@@ -1,4 +1,4 @@
-# Scrap Hotels in Addis Ababa from Booking.com
+# Scrap Hotels Information in Addis Ababa from Booking.com Project
 
 ## Objective
 
